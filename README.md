@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Run2C/Deploiement%20ARM/_apis/build/status/NicoRun.pipelines-java?branchName=master)](https://dev.azure.com/Run2C/Deploiement%20ARM/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
